@@ -1,0 +1,24 @@
+# Virtualenv
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models / data (optional)
+data/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
